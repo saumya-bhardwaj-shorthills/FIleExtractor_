@@ -1,4 +1,5 @@
 import docx
+
 from data_extractor.file_loaders.file_loader import FileLoader
 
 class DOCXLoader(FileLoader):
@@ -12,8 +13,9 @@ class DOCXLoader(FileLoader):
     def load_file(self, file_path: str) -> docx.Document:
         if not self.validate_file(file_path):
             raise ValueError("Invalid DOCX file.")
-        return docx.Document(file_path)
-    
-    # def close_file(self):
-    #     if self.file:
-    #         self.file.close()
+        try:
+            # Attempt to open the DOCX file
+            return docx.Document(file_path)
+        except Exception:
+            # Catch any exception that occurs and raise a ValueError
+            raise ValueError("Invalid DOCX file.")

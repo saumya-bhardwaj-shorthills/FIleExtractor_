@@ -18,15 +18,14 @@ class PDFLoader(FileLoader):
     def load_file(self, file_path: str) -> PdfReader:
         if not self.validate_file(file_path):
             raise ValueError("Invalid PDF file.")
-        return PdfReader(file_path)
-
-    # def close_file(self):
-    #     """
-    #     Close the PDF file.
-
-    #     This method closes the file after it has been loaded.
-
-    #     :return: None
-    #     """
-    #     if self.file:
-    #         self.file.close()
+        
+        try:
+            # Attempt to open the PDF file
+            pdf = PdfReader(file_path)
+            # Check if the PDF is encrypted (password-protected)
+            if pdf.is_encrypted:
+                raise ValueError("Invalid PDF file.")
+            return pdf
+        except Exception:
+            # Catch any other exceptions and raise the expected ValueError
+            raise ValueError("Invalid PDF file.")
