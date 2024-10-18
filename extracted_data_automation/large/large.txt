@@ -1,0 +1,33 @@
+Introduction with Hyperlinks
+Heading: "Introduction to Data Analytics"
+Text: Data analytics is the process of examining datasets to draw conclusions about their information. It is increasingly automated and widely used in various industries.
+Hyperlink: Learn more on Wikipedia about Data Analytics.
+
+Text: We will explore key topics related to data analytics in the following pages.
+Table: A comparison table for the different types of data analytics:
+Key Tools in Data Analytics
+Heading: "Popular Tools for Data Analytics"
+Text: Various tools are available for performing data analytics, ranging from programming languages to software packages.
+Hyperlink: Visit the Python Official Website to explore how Python is used in analytics.
+
+Table: A comparison of data analytics tools:
+
+Applications of Data Analytics
+Heading: "Real-World Applications of Data Analytics"
+Text: Data analytics is used in various industries, from finance to healthcare. Below are a few examples of how it’s applied.
+Hyperlink: Explore case studies on IBM Data Analytics.
+
+Table: Applications of data analytics:
+
+Type	Description	Example use case
+Descriptive	Summarizes past data	Sales reports
+Predictive	Forecasts future trends	Stock price prediction
+Prescriptive	Provides recommendations	Marketing campaign strategies
+Tool	Type	Usecase
+Python	Programming	Machine learning, data processing
+R	Programming	Statistical analysis
+Tableau	Software	Data Visualization
+Industry	Example Applications	Key insights
+Healthcare	Predicting patient outcomes	Improved treatment plans
+Finance	Fraud detection	Reduced financial risk
+Retail	Customer behavior analysis	Personalized shopping experience

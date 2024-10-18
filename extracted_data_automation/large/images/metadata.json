@@ -1,0 +1,17 @@
+[
+    {
+        "file_name": "image_1.jpeg",
+        "page_number": "media/image1.jpg",
+        "dimensions": "N/A"
+    },
+    {
+        "file_name": "image_2.jpeg",
+        "page_number": "media/image3.jpg",
+        "dimensions": "N/A"
+    },
+    {
+        "file_name": "image_3.jpeg",
+        "page_number": "media/image2.jpg",
+        "dimensions": "N/A"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "table_filename": "table_1.csv",
+        "row_count": 3,
+        "column_count": 1
+    },
+    {
+        "table_filename": "table_2.csv",
+        "row_count": 3,
+        "column_count": 1
+    },
+    {
+        "table_filename": "table_3.csv",
+        "row_count": 5,
+        "column_count": 4
+    },
+    {
+        "table_filename": "table_4.csv",
+        "row_count": 6,
+        "column_count": 5
+    },
+    {
+        "table_filename": "table_5.csv",
+        "row_count": 7,
+        "column_count": 9
+    },
+    {
+        "table_filename": "table_6.csv",
+        "row_count": 6,
+        "column_count": 5
+    },
+    {
+        "table_filename": "table_7.csv",
+        "row_count": 11,
+        "column_count": 5
+    },
+    {
+        "table_filename": "table_8.csv",
+        "row_count": 11,
+        "column_count": 20
+    },
+    {
+        "table_filename": "table_9.csv",
+        "row_count": 11,
+        "column_count": 17
+    },
+    {
+        "table_filename": "table_10.csv",
+        "row_count": 3,
+        "column_count": 10
+    },
+    {
+        "table_filename": "table_11.csv",
+        "row_count": 4,
+        "column_count": 6
+    },
+    {
+        "table_filename": "table_12.csv",
+        "row_count": 5,
+        "column_count": 6
+    },
+    {
+        "table_filename": "table_13.csv",
+        "row_count": 9,
+        "column_count": 3
+    },
+    {
+        "table_filename": "table_14.csv",
+        "row_count": 5,
+        "column_count": 2
+    },
+    {
+        "table_filename": "table_15.csv",
+        "row_count": 8,
+        "column_count": 3
+    },
+    {
+        "table_filename": "table_16.csv",
+        "row_count": 6,
+        "column_count": 5
+    },
+    {
+        "table_filename": "table_17.csv",
+        "row_count": 7,
+        "column_count": 3
+    },
+    {
+        "table_filename": "table_18.csv",
+        "row_count": 6,
+        "column_count": 3
+    }
+]

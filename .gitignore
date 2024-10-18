@@ -1,2 +1,4 @@
 extracted_data/
 files/
+.env
+extracted_data_automation/

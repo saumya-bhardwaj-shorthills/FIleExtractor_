@@ -1,0 +1,494 @@
+VISHNU
+PILLAI
+Gurg aon,
+Haryana
+|
+P:
++91
+9643813306
+|
+vishn upillai2001@gmail.com
+LEET CODE
+|
+CODEFOR CES
+|
+LINKEDIN
+|
+GEEKSFOR GEEKS
+EDUCATION
+B a c h e l o ro fT e c h n o l o g y
+|Electric alEngineering2 0 2 0-2 0 2 4DelhiT echnologic alUniv er sityC GP A-8.32/10.0X I I( S r .S e c o n d a r y ,A I S S C E )2 0 1 8-2 0 1 9R y anIn t erna tionalSchool,SohnaR oad,Gurugr amP er cen t ag e-94.2%
+WORK
+EXPERIENCE
+Tyroo
+Technologies
+|
+Backend
+Intern
+July
+2024
+-
+Aug
+2024
+●
+Developed
+an
+AI-po wered
+email
+monitoring
+system
+for
+the
+campaign
+manag ement
+team
+at
+Tyroo,
+automating
+redundant
+tasks
+for
+account
+manag ers
+using
+CrewAI
+and
+LangChain.
+●
+Implemented
+generati ve
+AI
+techniques
+and
+prompt
+engineering
+to
+process
+and
+prioritize
+emails
+from
+clients ,
+partners ,
+and
+peers ,
+enhancing
+the
+efficiency
+of
+campaign
+setup ,
+monitoring,
+and
+report
+generation.
+●
+Leveraged
+Retriev al-Augmented
+Generation
+(RAG)
+and
+automation
+tools
+to
+categ orize
+and
+analyze
+emails ,
+perfor ming
+sentiment
+analysis
+to
+deter mine
+urgency
+and
+impro ve
+response
+times .
+ACCENTURE
+|
+Advanced
+Application
+Engineer
+Intern
+|
+Certificate
+June
+2023
+-
+July
+2023
+●
+Analyzed
+and
+examined
+features
+and
+capabilities
+of
+identity
+and
+access
+mana gement
+,
+including
+identity
+provisioning ,
+access
+mana gement,
+compliance
+mana gement,
+self-ser vice
+etc
+through
+virtual
+hands
+on
+experience
+●
+Explored
+training
+modules
+on
+the
+softw are
+SAILPOINT
+which
+helps
+organizations
+manag e
+respecti ve
+user
+identities
+and
+access
+privileges
+from
+the
+SailPoint
+Compass
+Comm unity
+Site
+ACADEMIC
+PROJECTS
+Social
+Media
+Website
+|
+Project
+Nov
+2023
+-
+Jan
+2024
+●
+Dev eloped
+a
+Full
+Stack
+Pr oject
+using
+MERN
+and
+various
+other
+tools
+to
+create
+a
+social
+media
+website
+●
+Implemented
+authentication
+and
+authorization
+using
+bcrypt.js
+and
+JWT
+for
+secured
+user
+authentication
+●
+Utilized
+Redux
+Toolkit
+for
+efficient
+state
+manag ement,
+enhancing
+the
+application ’s
+perfor mance
+and
+scalability
+●
+Implemented
+an
+essential
+set
+of
+10+
+features
+that
+encompass
+a
+wide
+range
+of
+functionalities ,
+including
+user
+profiles,
+friend
+connections,
+photo
+and
+video
+sharing ,
+commenting
+,
+and
+more
+MoviesFo
+|
+Project
+|
+Video
+Sept
+2023
+-
+Oct
+2023
+●
+Required
+Tech
+stack
+were
+Reactjs,
+Redux,
+HTML,
+CSS ,
+Javascript,
+APIs
+●
+Developed
+a
+front
+end
+web
+application
+using
+Reactjs
+and
+Redux
+serving
+as
+TMDB
+API
+●
+Prog rammed
+a
+search
+system
+that
+gets
+data
+from
+TMDB
+API
+and
+displa ys
+10
+results
+in
+the
+form
+of
+grid
+●
+Integ rated
+Axios
+NPM,
+reactIcons
+packa ge
+s
+for
+async hronous
+tasks
+and
+icons
+for
+the
+website
+ACADEMIC
+ACHIEVEMENTS
+●
+Achieved
+Uni versity
+rank
+1
+and
+countr y
+rank
+39
+in
+IEEE
+Extr eme
+16.0,
+2022
+among
+14000+
+teams
+|
+certificate
+●
+Secured
+Uni versity
+rank
+13
+and
+countr y
+rank
+1758
+in
+CodeK aze
+2023,
+which
+had
+200,000
+participants
+|
+certificate
+●
+Participated
+in
+the
+hackathon
+involving
+25000+
+students
+and
+overcame
+all
+rounds
+to
+qualify
+for
+the
+ex clusi ve
+Jumpstar t’
+22
+event
+organized
+by
+Publicis
+Sapien
+t
+|
+certificate
+●
+Attained
+maximum
+rating
+of
+1448(specialist)
+in
+Codeforces
+●
+Achieved
+a
+status
+of
+Knight
+and
+maximum
+rating
+of
+1894
+on
+Leetcode,
+and
+among
+top
+5%
+contestants
+●
+Solved
+1500+
+data
+str uctur es
+and
+algorithms
+problems
+across
+various
+coding
+platfor ms
+SKILLS
+Pr ogramming
+:
+C/C++,
+JavaScript,
+Python
+Libraries/F ramew orks:
+React,
+Bootstrap ,
+Nodejs ,
+Express .js,
+ejs
+Tools/Platf orms:
+VsCode ,
+Git,
+Github ,
+Canva,
+Matlab
+Data bases:
+MySQl,
+Mong oDb
+Relev ant
+Cour sew ork:
+Data
+Structures ,
+Algorithm
+Analysis
+and
+Design,
+Discrete
+Structures ,
+DBMS ,
+Operating
+System,
+OOPs
+EXTRACURRICULAR
+ACTIVITIES
+Member
+of
+DTU
+Crick et
+Team
+January
+2022
+-
+July
+2022
+●
+Attained
+2nd
+position
+in
+crick et
+at
+Agasty a,
+Inter
+College
+Spor ts
+Tour nament
+,
+held
+at
+NSUT

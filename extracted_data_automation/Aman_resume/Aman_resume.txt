@@ -1,0 +1,43 @@
+Aman Bhatt Software Developer
+(+91) 9528418686 |Portfolio |aman.iiitu@gmail.com |LinkedIn |Github |
+EDUCATION
+Indian Institute of Information Technology(IIIT) Una Dec 2020 – May 2024
+Bachelor of Technology (B.Tech) – Information Technology CGPA - 8.16
+Saraswati Academy (Haldwani, Uttarakhand) April 2018 – Mar 2019
+XII, Central Board of Secondary Education 92.8%
+TECHNICAL SKILLS
+Languages: C, C++, Kotlin, Java, XML, SQL, JavaScript, HTML
+Developer Tools: VS Code, Android Studio, GitHub, Postman, Linux, IntelliJ IDE, Gen-AI
+Database & Framework: Firebase, Mongo, Room, NoSQL, NodeJs, Express
+Course Work: Operating Systems, Data Structures & Algorithms, OOPs, Networking, Database Management
+EXPERIENCE
+AppyHigh Technology LLP, Gurgaon, Haryana
+Android Developer Intern Dec 2022 – May 2023
+•Eradicated various ed crash rates by 30% and coded clean, efficient, maintainable code.
+•Leveraged modern MVVM design pattern incorporating dynamic modules which gained 15% UI performance.
+•Revamped 25,000 lines of code from Java to Kotlin, significant reduction in debug time to 3-5 minutes.
+•Integrated In-App Purchase enabling users to access premium content through subscription.
+•Industry practices, like push notifications, flows, coroutines, viewmodels, Work Managers etc.
+PROJECTS
+QuickDroid |One Platform for Downloading all types of Files |Link
+•The project offers comprehensive download links and provides encompassing diverse file formats.
+•Upload local files to application dedicated remote database facilitating easier access of files by other network clients.
+•Utlising cacheability feature of room to store working links locally which tracks 90% of search history .
+•Tech Stack: Kotlin, Node.js, Express, MongoDB.
+News Breeze |Designed a Country-Centric News Application |Link
+•Restful API integration to showcase the news in scrollable recyclerview.
+•Designed Web View feature for full article reading, also save news for offline reading, increase 15% user retention .
+•Room Database for local storage of articles, search news by name query, sort the list by date.
+•Kotlin, Room, Retrofit is used at FrontEnd for development.
+Weather Application |Stay Ahead of the Weather |Link
+•Delivering real-time weather information tailored to specific locations.
+•Presenting dynamic images that vividly depict current weather conditions, enhancing user understanding.
+•Enabling users to explore past and future weather forecasts, aiding in better planning and decision-making.
+ACHIEVEMENTS
+Solved 650+ questions on DSA/Programming across different platforms like GFG , CodeForces , AtCoder .
+Maximum rating of 1419 and 1605(Global Rank of 81) in LeetCode & Code-Chef respectively.
+Google Hash-Code (Global Rank - 3448) Certificate
+Maintained a github repository with 1500+ solution codes with 500+ commits .
+EXTRACURRICULAR
+Beta – Microsoft Learn Student Ambassador Certificate
+Captain of Volleyball winning team inYalgaar’23, Cultural Fest of IIIT Una & 6th INTER-IIIT Sports Meet (Mar 2024).

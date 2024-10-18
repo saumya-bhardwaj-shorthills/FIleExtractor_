@@ -16,13 +16,13 @@ class FileStorage(Storage):
         if data_type == 'text':
             self.save_text(data, filename)
         elif data_type == 'image':
-            self.save_images(data, filename)
+            return self.save_images(data, filename)
         elif data_type == 'url':
             self.save_urls(data, filename)
-        elif data_type == 'table':
+        elif data_type == 'data_table':
             self.save_tables(data, filename)
         else:
-            raise ValueError("Unsupported data type. Use 'text', 'image', 'url', or 'table'.")
+            raise ValueError("Unsupported data type. Use 'text', 'image', 'url', or 'data_table'.")
 
     def save_text(self, data, filename: str):
         """Save text data as a .txt file."""
@@ -71,6 +71,7 @@ class FileStorage(Storage):
         metadata_file = os.path.join(images_dir, 'metadata.json')
         with open(metadata_file, 'w') as f:
             json.dump(metadata, f, indent=4)
+        return metadata
 
     def save_urls(self, urls, filename: str):
         urls_dir = os.path.join(self.output_dir, "urls")
@@ -110,7 +111,9 @@ class FileStorage(Storage):
             elif isinstance(table, list):
                 with open(csv_path, 'w', newline='') as f:
                     for row in table:
-                        f.write(",".join(row) + "\n")
+                        # Convert None values to empty strings before joining
+                        cleaned_row = [str(item) if item is not None else "" for item in row]
+                        f.write(",".join(cleaned_row) + "\n")
             
             # Add metadata for the current table
             metadata.append({
@@ -123,7 +126,7 @@ class FileStorage(Storage):
         metadata_file = os.path.join(tables_dir, "metadata.json")
         with open(metadata_file, 'w') as f:
             json.dump(metadata, f, indent=4)
+
                         
     def close(self):
         pass
-

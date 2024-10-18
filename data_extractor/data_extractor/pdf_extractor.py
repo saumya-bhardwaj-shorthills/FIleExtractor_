@@ -8,17 +8,16 @@ class PDFExtractor(Extractor):
         self.loader = loader
         self.file = None
         self.file_path = None
-        
+
     def load(self, file_path):
         """Load the file using the appropriate loader based on file type."""
         self.file = self.loader.load_file(file_path)
         self.file_path = file_path 
-        
+
     def extract_text(self):
         # Extract text from PDF
-        reader = self.loader.load_file(self.file_path)
         text = ""
-        for page in reader.pages:
+        for page in self.file.pages:
             text += page.extract_text()
         return text
 
